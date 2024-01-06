@@ -5,4 +5,4 @@ transformers
 sentencepiece
 fastapi
 httpx
-pydantic
+
